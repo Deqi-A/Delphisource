@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/04/29 14:49:00.000.482,=C:\Users\lenovo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/29 16:39:18.000.945,=C:\Users\lenovo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/29 21:35:33.000.472,=C:\Users\lenovo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/01 08:12:47.000.395,=C:\Users\lenovo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/02 10:43:32.000.534,=C:\Users\lenovo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/02 10:45:14.000.133,C:\Users\lenovo\Desktop\重重\Unit1.dfm=C:\Users\lenovo\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/05/02 10:45:14.000.133,C:\Users\lenovo\Desktop\重重\Unit1.pas=C:\Users\lenovo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/02 10:45:16.000.678,C:\Users\lenovo\Desktop\重重\Project1.dproj=C:\Users\lenovo\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/05/02 13:51:07.000.766,C:\Users\lenovo\Desktop\重重\Project1.dproj=C:\Users\lenovo\Desktop\重重\Project1.dproj</Transaction>
+    <Transaction>2022/05/02 20:16:51.000.131,=C:\Users\lenovo\Desktop\重重\ModelSupport_Project1\default.txaPackage</Transaction>
+    <Transaction>2022/05/02 21:59:44.000.406,=C:\Users\lenovo\Desktop\重重\Unit2.pas</Transaction>
+    <Transaction>2022/05/03 08:21:21.000.620,=C:\Users\lenovo\Desktop\重重\ModelSupport_Project1\Project1\default.txaPackage</Transaction>
+    <Transaction>2022/05/03 08:21:21.000.603,=C:\Users\lenovo\Desktop\重重\ModelSupport_Project1\default.txvpck</Transaction>
+    <Transaction>2022/05/03 08:21:21.000.631,=C:\Users\lenovo\Desktop\重重\ModelSupport_Project1\Unit1\default.txaPackage</Transaction>
+    <Transaction>2022/05/03 08:21:21.000.488,C:\Users\lenovo\Desktop\重重\Project1.dproj=C:\Users\lenovo\Desktop\重重\Project1.dproj</Transaction>
+    <Transaction>2022/05/03 09:02:53.000.432,C:\Users\lenovo\Desktop\重重\Project1.dproj=C:\Users\lenovo\Desktop\重重\Project1.dproj</Transaction>
+    <Transaction>2022/05/04 17:24:05.000.099,C:\Users\lenovo\Desktop\重重\Project1.dproj=D:\delphi\jishi\Project1.dproj</Transaction>
+    <Transaction>2022/05/04 17:24:21.000.983,C:\Users\lenovo\Desktop\重重\Unit1.pas=D:\delphi\jishi\Unit1.pas</Transaction>
+    <Transaction>2022/05/04 17:24:21.000.983,C:\Users\lenovo\Desktop\重重\Unit1.dfm=D:\delphi\jishi\Unit1.dfm</Transaction>
+    <Transaction>2022/05/07 13:11:10.575,D:\workspaces\ready\DelphiSource\Unit1.dfm=D:\delphi\jishi\Unit1.dfm</Transaction>
+    <Transaction>2022/05/07 13:11:10.575,D:\workspaces\ready\DelphiSource\Unit1.pas=D:\delphi\jishi\Unit1.pas</Transaction>
+    <Transaction>2022/05/07 13:11:45.594,D:\workspaces\ready\DelphiSource\memo1\Unit1.pas=D:\workspaces\ready\DelphiSource\Unit1.pas</Transaction>
+    <Transaction>2022/05/07 13:11:45.594,D:\workspaces\ready\DelphiSource\memo1\Unit1.dfm=D:\workspaces\ready\DelphiSource\Unit1.dfm</Transaction>
+    <Transaction>2022/05/07 13:12:03.094,D:\workspaces\ready\DelphiSource\memo1\Project1.dproj=D:\delphi\jishi\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
