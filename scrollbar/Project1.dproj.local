@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/04/29 14:49:00.000.482,=C:\Users\lenovo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/29 16:39:18.000.945,=C:\Users\lenovo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/29 21:35:33.000.472,=C:\Users\lenovo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/01 08:12:47.000.395,=C:\Users\lenovo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/03 20:36:23.000.233,=C:\Users\lenovo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/04 14:11:52.000.631,=C:\Users\lenovo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/04 14:29:06.000.928,C:\Users\lenovo\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\delphi\scrollbar\Unit1.dfm</Transaction>
+    <Transaction>2022/05/04 14:29:06.000.928,C:\Users\lenovo\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\delphi\scrollbar\Unit1.pas</Transaction>
+    <Transaction>2022/05/04 14:29:15.000.941,C:\Users\lenovo\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\delphi\scrollbar\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
